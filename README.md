@@ -4,20 +4,21 @@ A resource pack that applies the **Colourful Containers** chest colour theme to 
 
 ## What it does
 
-Replaces the default grayscale YYZ Backpacks GUI textures (`backpack.png`, `2x9backpack.png`, `4x9backpack.png`, `6x9backpack.png`, and `slot.png`) with recoloured versions using the warm brown/gold palette from Colourful Containers' chest variant.
+Replaces the default grayscale YYZ Backpacks GUI textures (`backpack.png`, `2x9backpack.png`, `4x9backpack.png`, `6x9backpack.png`, and `slot.png`) with recoloured versions using the warm brown/gold palette from Colourful Containers' chest variant with some custom detail.
 
-## How it works
+## Screenshots
 
-The original YYZ Backpacks textures use 7 grayscale tones. This pack remaps them to the Colourful Containers chest colour scheme:
+### Iron Backpack
+![iron backpack](./screenshots/2026-06-14_18.34.18.png)
 
-| Original (gray) | Remapped (chest) |
-|---|---|
-| `(0,0,0)` black edge | `(31,28,23)` dark brown |
-| `(55,55,55)` dark border | `(55,49,39)` brown |
-| `(85,85,85)` mid border | `(70,62,50)` brown-gray |
-| `(139,139,139)` slot bg | `(67,38,0)` dark warm brown |
-| `(198,198,198)` highlight | `(171,121,45)` gold |
-| `(255,255,255)` bright highlight | `(220,172,98)` bright gold |
+### Gold backpack
+![gold backpack](./screenshots/2026-06-14_18.34.25.png)
+
+### Diamond/Netherite Backpack
+> Note: Currently the mod uses the same layout for both
+
+![diamond/netherite backpack](./screenshots/2026-06-14_18.34.29.png)
+
 
 ## Installation
 
@@ -30,3 +31,7 @@ The original YYZ Backpacks textures use 7 grayscale tones. This pack remaps them
 
 - [YYZ Backpacks](https://modrinth.com/mod/yyzsbackpack) mod
 - [Colourful Containers](https://modrinth.com/resourcepack/colourful-containers) resource pack
+
+---
+
+> This is a fan creation and is not affiliated with, endorsed by, or associated with the authors of YYZ Backpacks or Colourful Containers. All rights belong to their respective owners.
