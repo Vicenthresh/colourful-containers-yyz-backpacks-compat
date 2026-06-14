@@ -32,6 +32,4 @@ Replaces the default grayscale YYZ Backpacks GUI textures (`backpack.png`, `2x9b
 - [YYZ Backpacks](https://modrinth.com/mod/yyzsbackpack) mod
 - [Colourful Containers](https://modrinth.com/resourcepack/colourful-containers) resource pack
 
----
-
-> This is a fan creation and is not affiliated with, endorsed by, or associated with the authors of YYZ Backpacks or Colourful Containers. All rights belong to their respective owners.
+> Note: This is a fan creation and is not affiliated with, endorsed by, or associated with the authors of YYZ Backpacks or Colourful Containers. All rights belong to their respective owners.
